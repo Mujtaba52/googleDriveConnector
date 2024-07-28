@@ -1,0 +1,4 @@
+.myprojectenv
+myprojectenv/
+.env
+env/
